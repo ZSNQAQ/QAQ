@@ -1,0 +1,4 @@
+git config --global user.name "ZSNQAQ"
+git config --global user.email "1039386273@qq.com"
+ssh-keygen -t rsa -C "1039386273@qq.com"
+git remote add origin git@github.com:ZSNQAQ/QAQ.git
